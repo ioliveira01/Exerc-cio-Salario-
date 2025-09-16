@@ -1,1 +1,1 @@
-# Exerc-cio-Salario-
+# Exerc-cio-Salario- O programa pede o valor do salario bruto, e o valor da prestação, com a formula (salarioBruto * 0.30) calcula 30%, e se a prestação for menor ou igual ao salario, o emprestimo é permitido, caso o valor do emprestimo seja maior que o salario, o emprestimo é negado
